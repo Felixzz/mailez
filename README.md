@@ -1,0 +1,2 @@
+# mailez
+send mail easier
